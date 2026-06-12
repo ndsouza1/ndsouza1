@@ -3,7 +3,6 @@
 
 I’m a **Systems & Embedded Engineer** with 5+ years of experience in **ADAS, robotics, and automation software**.  
 My work focuses on developing intelligent robotic systems using **C++**, **Python**, **ROS2**, and **computer vision**.  
-I’m passionate about creating technology that bridges the gap between embedded systems and AI-powered autonomy.
 
 ---
 
